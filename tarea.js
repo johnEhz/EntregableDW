@@ -12,7 +12,7 @@ const sonIguales = (x, y)=>{
     // Devuelve "true" si "x" e "y" son iguales
     // De lo contrario, devuelve "false"
     // Debes generar el código para que la función haga lo solicitado.
-    return x === y ? true : false
+    return x === y
     
 }
 
@@ -20,7 +20,7 @@ function tienenMismaLongitud(str1, str2) {
     // Devuelve "true" si las dos strings tienen la misma longitud
     // De lo contrario, devuelve "false"
     // Tu código:
-    return str1.length === str2.length ? true : false
+    return str1.length === str2.length
   }
 
   function esPositivo(numero) {
